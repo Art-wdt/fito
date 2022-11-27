@@ -737,6 +737,16 @@ section {
   fill: #11dbcf;
 }
 
+.services .iconbox-green i {
+  color: #198754;
+}
+.services .iconbox-green:hover .icon i {
+  color: #fff;
+}
+.services .iconbox-green:hover .icon path {
+  fill: #198754;
+}
+
 /*--------------------------------------------------------------
 # Cta
 --------------------------------------------------------------*/
